@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sp7021-block")(type "KiCad")(uri "/home/ctcl/Documents/sp7021-block-sbc/kicad/symbols/sp7021-block.kicad_sym")(options "")(descr ""))
+)
