@@ -1,5 +1,5 @@
-# SP7021-Block
-SP7021-Block is a single-board computer making use of the Sunplus Technology/Tibbo Technology SP7021 System in Package.
+# Block-SP7021 "Bear Creek Lake"
+Block-SP7021 is a single-board computer making use of the Sunplus Technology/Tibbo Technology SP7021 System in Package.
 
 "Block" is a name of the new series of single-board computers designed by CTCL. It is based off the term "building block" and the former meaning of CTCL.
 
